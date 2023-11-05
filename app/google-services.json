@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008784994946",
+    "project_id": "authfirebasebruno",
+    "storage_bucket": "authfirebasebruno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008784994946:android:0583c0076c764524613a9b",
+        "android_client_info": {
+          "package_name": "com.example.authfirebasebruno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoWnJSo5NLmaWyrIybDqDYtQC5I4QCUrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
